@@ -101,7 +101,6 @@
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-	- [Material Design Apps](https://github.com/asimawdah/awesome-material-apps#readme) - Android apps that use Material Design 3 and Material You.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
@@ -154,6 +153,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+- [Material Design Apps](https://github.com/asimawdah/awesome-material-apps#readme) - Android apps that use Material Design 3 and Material You.
 
 ## Programming Languages
 
